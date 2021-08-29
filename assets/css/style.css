@@ -7,6 +7,12 @@ Author URI: http://bootstrapthemes.co
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+.powered-by .es-free, .powered-by .es-free a {
+    display:none;
+}
+
+
 html,
 body {
     background-color: #fff;
