@@ -12,6 +12,10 @@ Author URI: http://bootstrapthemes.co
     display:none;
 }
 
+a.feed-powered-by-es.feed-powered-by-es-center {
+    display:none;
+}
+
 
 html,
 body {
